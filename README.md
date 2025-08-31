@@ -64,9 +64,6 @@ Example Response
 
 
 ##  Authors  
-**Disha Davey**  
-[dishdavey2111@gmail.com](mailto:dishdavey2111@gmail.com) [GitHub](https://github.com/Dishdavey21) 
-**Kanishka Patwal**
-[GitHub](https://github.com/Kanishka29-k)
-**Khushi Chelani**
-[GitHub](https://github.com/Khushichelani-28)
+**Disha Davey** [dishdavey2111@gmail.com](mailto:dishdavey2111@gmail.com) [GitHub](https://github.com/Dishdavey21) 
+**Kanishka Patwal** [GitHub](https://github.com/Kanishka29-k)
+**Khushi Chelani** [GitHub](https://github.com/Khushichelani-28)
