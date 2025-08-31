@@ -24,7 +24,7 @@ cd ai-resume-screening-api
 
 ### 2. Create a virtual environment
 
--python -m venv ven\v
+-python -m venv ven\v \
  -Activate it:\
  	source venv/bin/activate   # Linux/Mac \
 	venv\Scripts\activate      # Windows 
