@@ -44,11 +44,11 @@ uvicorn main:app --reload
 
 ⸻
 
-API Endpoints
+## API Endpoints:
 	•	POST /upload-resume/ → Upload a resume for parsing and analysis
 	•	GET /health → Check API health status
 
-Example Request
+## Example Request
 
 curl -X POST "http://127.0.0.1:8000/upload-resume/" \
   -H "Content-Type: multipart/form-data" \
