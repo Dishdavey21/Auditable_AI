@@ -19,28 +19,27 @@ This project helps extract and analyze key resume details for efficient hiring d
 
 ### 1. Clone the repository
 
-git clone (https://github.com/Dishdavey21/Auditable_AI.git)
-cd ai-resume-screening-api
+-git clone (https://github.com/Dishdavey21/Auditable_AI.git)
+-cd ai-resume-screening-api
 
-2. Create a virtual environment
+### 2. Create a virtual environment
 
-python -m venv venv
- Activate it
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+-python -m venv venv
+ -Activate it:
+ 	source venv/bin/activate   # Linux/Mac
+	venv\Scripts\activate      # Windows
 
-3. Install dependencies
+### 3. Install dependencies
 
 pip install -r requirements.txt
 
-4. Download SpaCy model
+### 4. Download SpaCy model
 
 python -m spacy download en_core_web_sm
 
-5. Run the server
+### 5. Run the server
 
 uvicorn main:app --reload
-
 
 ⸻
 
