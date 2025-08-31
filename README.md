@@ -19,7 +19,7 @@ This project helps extract and analyze key resume details for efficient hiring d
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/ai-resume-screening-api.git
+git clone (https://github.com/Dishdavey21/Auditable_AI.git)
 cd ai-resume-screening-api
 
 2. Create a virtual environment
